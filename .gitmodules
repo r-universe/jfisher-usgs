@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "inlcolor"]
+	path = inlcolor
+	url = https://github.com/cran/inlcolor
+	shallow = true
+	registered = true
+[submodule "inlpubs"]
+	path = inlpubs
+	url = https://github.com/cran/inlpubs
+	shallow = true
+	registered = true
