@@ -8,3 +8,6 @@
 [submodule "inlpubs"]
 	path = inlpubs
 	url = https://github.com/cran/inlpubs
+[submodule "webmap"]
+	path = webmap
+	url = https://github.com/cran/webmap
