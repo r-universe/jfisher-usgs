@@ -11,6 +11,9 @@
 [submodule "inlpubs"]
 	path = inlpubs
 	url = https://github.com/cran/inlpubs
+[submodule "mlms"]
+	path = mlms
+	url = https://github.com/cran/mlms
 [submodule "webmap"]
 	path = webmap
 	url = https://github.com/cran/webmap
